@@ -22,14 +22,14 @@
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="Python" width="30px" style="padding-right:10px; border-radius: 5px;" src="https://ih0.redbubble.net/image.2189776566.6167/raf,360x360,075,t,fafafa:ca443f4786.jpg" />
-<img align="left" alt="Javascript" width="30px" style="padding-right:10px; border-radius: 5px;" src="https://cdn.discordapp.com/app-assets/1127365366977396867/1127397575172034560.png" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px; border-radius: 5px;" src="https://cdn.discordapp.com/app-assets/1127365366977396867/1127396365903855727.png" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px; border-radius: 5px;" src="https://cdn.discordapp.com/app-assets/1127365366977396867/1127386904824918076.png" />
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px; border-radius: 5px;" src="https://cdn.discordapp.com/app-assets/1127365366977396867/1127514928551579719.png" />
-<img align="left" alt="VS Code" width="30px" style="padding-right:10px; border-radius: 5px;" src="https://cdn.discordapp.com/app-assets/1127365366977396867/1127379462149906493.png" />
-<img align="left" alt="Nim" width="30px" style="padding-right:10px; border-radius: 5px;" src="https://cdn.discordapp.com/app-assets/1127365366977396867/1127509258561388614.png" />
-<img align="left" alt="PHP" width="30px" style="padding-right:10px; border-radius: 5px;" src="https://cdn.discordapp.com/app-assets/1127365366977396867/1127511423304605706.png" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px; border-radius: 10px !important;" src="https://ih0.redbubble.net/image.2189776566.6167/raf,360x360,075,t,fafafa:ca443f4786.jpg" />
+<img align="left" alt="Javascript" width="30px" style="padding-right:10px; border-radius: 10px !important;" src="https://cdn.discordapp.com/app-assets/1127365366977396867/1127397575172034560.png" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px; border-radius: 10px !important;" src="https://cdn.discordapp.com/app-assets/1127365366977396867/1127396365903855727.png" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px; border-radius: 10px !important;" src="https://cdn.discordapp.com/app-assets/1127365366977396867/1127386904824918076.png" />
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px; border-radius: 10px !important;" src="https://cdn.discordapp.com/app-assets/1127365366977396867/1127514928551579719.png" />
+<img align="left" alt="VS Code" width="30px" style="padding-right:10px; border-radius: 10px !important;" src="https://cdn.discordapp.com/app-assets/1127365366977396867/1127379462149906493.png" />
+<img align="left" alt="Nim" width="30px" style="padding-right:10px; border-radius: 10px !important;" src="https://cdn.discordapp.com/app-assets/1127365366977396867/1127509258561388614.png" />
+<img align="left" alt="PHP" width="30px" style="padding-right:10px; border-radius: 10px !important;" src="https://cdn.discordapp.com/app-assets/1127365366977396867/1127511423304605706.png" />
 <br />
 
 #
