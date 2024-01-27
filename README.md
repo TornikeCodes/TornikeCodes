@@ -18,8 +18,6 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/721800684671991828)](https://discord.com/users/721800684671991828)
 
-<a href="https://inv.wtf/cybertech-talks"><img src="https://inv.wtf/widget/cybertech-talks" width="500" height="300"/></a>
-
 ---
 
 ### 🧰 Languages and Tools
@@ -44,7 +42,7 @@
 
 ### 📊 Stats
 
-[![My Github Stats]](https://github-readme-stats.vercel.app/api?username=TornikeCodes&show_icons=true&theme=codeSTACKr)
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=TornikeCodes&show_icons=true&theme=codeSTACKr)
 
 <div align="left"> 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-theta.vercel.app/?user=TornikeCodes&theme=codeSTACKr&hide_border=true" alt="GitHub Streak"></a>
