@@ -1,4 +1,4 @@
-# 🧑🏻‍💻 Cattopy The Web
+# 🧑🏻‍💻 Tornike, CEO of Gervase
 
 - 👋 Hi, I’m DangerCode!
 - 👀 I’m interested in programming, Data Management and tech in general
