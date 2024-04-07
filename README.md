@@ -1,4 +1,4 @@
-# 🧑🏻‍💻 Tornike, CEO of Gervase
+# 🧑🏻‍💻 Tornike, Founder of Gervase
 
 - 👋 Hi, I’m DangerCode!
 - 👀 I’m interested in programming, Data Management and tech in general
